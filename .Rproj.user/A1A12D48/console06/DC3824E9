@@ -1,0 +1,91 @@
+[0mMicrosoft Windows [version 10.0.17134.885][0K[?25l
+(c) 2018 Microsoft Corporation. Tous droits réservés.[0K
+[0K
+C:\Users\StéphaneLENOBLE\Documents\test\test>[0K[1G[?25h[46G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>g[0K[?25he[0Kt[0K[50G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>get i[0K[?25hn[0Ki[0Kt[0K[?25l
+'get' n’est pas reconnu en tant que commande interne[0K
+ou externe, un programme exécutable ou un fichier de commandes.[0K
+[0K
+C:\Users\StéphaneLENOBLE\Documents\test\test>[0K[?25hg[0Ki[0Kt[0K[50G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
+[0K[?25hReinitialized existing Git repository in C:/Users/StéphaneLENOBLE/Documents/test/[0Kt[?25l
+est/.git/[0K
+[0K[?25h]0; [?25l
+C:\Users\StéphaneLENOBLE\Documents\test\test>[0K[?25hg[0Ki[0Kt[0K[50G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[57G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote a[0K[?25hd[0Kd[0K[61G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote add o[0K[?25hr[0Kr[0Ki[0Kg[0K[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote add orri[0K[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote add orr[0K[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote add or[0K[?25hr[0K[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote add or[0K[?25hi[0Kg[0Ki[0Kn[0K[68G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote add origin https://github[0K.
+com/SLenoble/test.git[0K[?25h[?25l
+[0K[?25h]0;  - git  remote add origin https://github.com/SLenoble/test.git]0; fatal: remote origin already exists.[0K[?25l
+[0K
+C:\Users\StéphaneLENOBLE\Documents\test\test>[0K[?25hr[0Ke[0K[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>r[0K[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>[0K[?25hgit remote add origin https://github[0K.[?25l
+com/SLenoble/test.git[0K[?25h[21G[20G[19G[18G[17G[16G[15G[14G[13G[12G[11G[10G[9G[8G[7G[6G[5G[4G[3G[2G[1G[?25l[1A[82G[?25h[81G[79G[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[59G[60G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote ad origin https://github.[0Kc
+om/SLenoble/test.git[0K[1A[59G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote a origin https://github.c[0Ko
+m/SLenoble/test.git[0K[1A[58G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote  origin https://github.co[0Km
+/SLenoble/test.git[0K[1A[57G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote c origin https://github.c[0Ko
+m/SLenoble/test.git[0K[1A[58G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote ch origin https://github.[0Kc
+om/SLenoble/test.git[0K[1A[59G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote cha origin https://github[0K.
+com/SLenoble/test.git[0K[1A[60G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote chan origin https://githu[0Kb
+.com/SLenoble/test.git[0K[1A[61G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote chang origin https://gith[0Ku
+b.com/SLenoble/test.git[0K[1A[62G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https://git[0Kh
+ub.com/SLenoble/test.git[0K[1A[63G[?25h]0;  - git  remote change origin https://github.com/SLenoble/test.git[?25l
+
+[0K[?25herror: Unknown subcommand: change[0K[?25l
+usage: git remote [-v | --verbose][0K
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mi[0Kr
+ror=<fetch|push>] <name> <url>[0K
+   or: git remote rename <old> <new>[0K
+   or: git remote remove <name>[0K
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)[0K
+   or: git remote [-v | --verbose] show [-n] <name>[0K
+   or: git remote prune [-n | --dry-run] <name>[0K
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...[0K]
+[0K
+   or: git remote set-branches [--add] <name> <branch>...[0K
+   or: git remote get-url [--push] [--all] <name>[0K
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>][0K
+   or: git remote set-url --add <name> <newurl>[0K
+   or: git remote set-url --delete <name> <url>[0K
+[0K
+    -v, --verbose         be verbose; must be placed before a subcommand[0K
+[0K
+[0K[?25h]0; [?25l
+C:\Users\StéphaneLENOBLE\Documents\test\test>[0K[?25hgit remote change origin https://git[0Kh[?25l
+ub.com/SLenoble/test.git[0K[?25hr[0Ke[0Km[0Ko[0K[?25lub.com/SLenoble/test.gitrem[0K[?25h[?25lub.com/SLenoble/test.gitre[0K[?25h[?25lub.com/SLenoble/test.gitr[0K[?25h[?25lub.com/SLenoble/test.git[0K[?25h[?25lub.com/SLenoble/test.gi[0K[?25h[?25lub.com/SLenoble/test.g[0K[?25h[?25lub.com/SLenoble/test.[0K[?25h[?25lub.com/SLenoble/test[0K[?25h[?25lub.com/SLenoble/tes[0K[?25h[?25lub.com/SLenoble/te[0K[?25h[?25lub.com/SLenoble/t[0K[?25h[?25lub.com/SLenoble/[0K[?25h[?25lub.com/SLenoble[0K[?25h[?25lub.com/SLenobl[0K[?25h[?25lub.com/SLenob[0K[?25h[?25lub.com/SLeno[0K[?25h[?25lub.com/SLen[0K[?25h[?25lub.com/SLe[0K[?25h[?25lub.com/S[0K[?25h[?25lub.com/[0K[?25h[?25lub.com[0K[?25h[?25lub.co[0K[?25h[?25lub.c[0K[?25h[?25lub.[0K[?25h[?25lub[0K[?25h[?25lu[0K[?25h[?25l[0K[?25h[?25l[1AC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https://git[0K
+[0K[1A[82G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https://gi[0K
+[0K[1A[81G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https://g[0K
+[0K[1A[80G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https://[0K
+[0K[1A[79G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https:/[0K
+[0K[1A[78G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https:[0K
+[0K[1A[77G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https[0K
+[0K[1A[76G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin http[0K
+[0K[1A[75G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin htt[0K
+[0K[1A[74G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin ht[0K
+[0K[1A[73G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin h[0K
+[0K[1A[72G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin[0K
+[0K[1A[71G[?25h[70G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origi[0K
+[0K[1A[69G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change orig[0K
+[0K[1A[68G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change ori[0K
+[0K[1A[67G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change or[0K
+[0K[1A[66G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change o[0K
+[0K[1A[65G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change[0K
+[0K[1A[64G[?25h[63G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote chang[0K
+[0K[1A[62G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote chan[0K
+[0K[1A[61G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote cha[0K
+[0K[1A[60G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote ch[0K
+[0K[1A[59G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote c[0K
+[0K[1A[58G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote[0K
+[0K[1A[57G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote r[0K
+[0K[1A[58G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote re[0K
+[0K[1A[59G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote rem[0K
+[0K[1A[60G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remo[0K
+[0K[1A[61G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remov[0K
+[0K[1A[62G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remove[0K
+[0K[1A[63G[?25h[64G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remove o[0K
+[0K[1A[65G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remove or[0K
+[0K[1A[66G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remove ori[0K
+[0K[1A[67G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remove orig[0K
+[0K[1A[68G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remove origi[0K
+[0K[1A[69G[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote remove origin[0K
+[0K[1A[70G[?25h]0;  - git  remote remove origin[?25l
+[?25h]0; [?25l
+C:\Users\StéphaneLENOBLE\Documents\test\test>[0K[?25hgit remote remove origin[0K[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git remote change origin https://git[0Kh
+ub.com/SLenoble/test.git[0K[?25h[?25l[1AC:\Users\StéphaneLENOBLE\Documents\test\test>git remote add origin https://github[0K.
+com/SLenoble/test.git[0K[?25h]0;  - git  remote add origin https://github.com/SLenoble/test.git[?25l
+[0K[?25h]0; [?25l
+C:\Users\StéphaneLENOBLE\Documents\test\test>[0K[?25hg[0Ki[0Kt[0Kt[0K[51G[50G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git[0K[?25h[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>gi[0K[?25ht[0K[50G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git a[0K[?25hd[0Kd[0K[54G[?25lC:\Users\StéphaneLENOBLE\Documents\test\test>git add .[0K[?25h
